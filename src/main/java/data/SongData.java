@@ -1,4 +1,4 @@
-package Data;
+package data;
 import model.Song;
 
 import java.util.HashMap;

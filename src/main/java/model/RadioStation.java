@@ -1,6 +1,6 @@
 package model;
 
-import Data.SongData;
+import data.SongData;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
